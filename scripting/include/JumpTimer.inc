@@ -4,7 +4,7 @@
 #define _JUMPTIMER_Included
 
 //TODO We should consider a Version Check to confirm consistancy between Plugins?
-//TOOD Clean this up a bit?
+//TODO Clean this up a bit?
 
 /**
  * ENUM to make Failure Conditions more consistent 
